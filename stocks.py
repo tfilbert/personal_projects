@@ -11,7 +11,7 @@ plt.style.use('_mpl-gallery')
 
 def main():
     current_dir = os.path.dirname(__file__)
-    output_dir = os.path.join(current_dir, 'Tables\\')
+    output_dir = os.path.join(current_dir, 'Stock-Tables\\')
     now = datetime.now().strftime("%m-%d-%Y %H.%M.%S")
     api_key =  "HR0GMGCA4BFBDLZVEUAWYJINZS4AGORW"
     #Available markets NASDAQ: $COMPX, DOW: $DJI, SPY: $SPX.X
