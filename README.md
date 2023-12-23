@@ -28,6 +28,6 @@ Given any of the two breeds of corgis, pembroke or cardigan, this model will pre
 Given any random state of a 12-sided Rubix cube-like puzzle, find optimal solutions using the A* algorithm. A text based gui is available for users to visualize the state of the puzzle.
 
 ### [Stock Analytics](stocks.py)
-Given any random state of a 12-sided Rubix cube-like puzzle, find optimal solutions using the A* algorithm. A text based gui is available for users to visualize the state of the puzzle.
+Using TD Ameritrade's API, dynamically feteched the latest "top movers" in any major market and outputs a visual of the stocks that have the biggest changes at any given time.
 
 
