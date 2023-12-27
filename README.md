@@ -30,4 +30,5 @@ Given any random state of a 12-sided Rubix cube-like puzzle, find optimal soluti
 ### [Stock Analytics](stocks.py)
 Using TD Ameritrade's API, dynamically feteched the latest "top movers" in any major market and outputs a visual of the stocks that have the biggest changes at any given time.
 
-
+### [Aircraft Predictive Maintenance Research Survey](PredictiveMaintenanceSurvey.pdf)
+An exploration of the current applications of machine learning in aircraft predictive maintenance, coupled with an insightful discussion on the future outlook of this field.
